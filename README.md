@@ -33,10 +33,3 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasiiik&show_icons=true&theme=radium&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasiiik&layout=compact&theme=radium&cache_seconds=86400)
