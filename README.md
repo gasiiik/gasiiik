@@ -5,7 +5,6 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 ### 👨‍💻 About Me
 
 * 🎓 **Student:** Currently studying at high school in Czechia.
-* 🏆 **Projects & Competitions:** Developed a project in C++ for SOČ (Students' Professional Activities), demonstrating my ability to tackle complex programming challenges.
 * ☕ **Backend & Game Dev:** I develop custom plugins for game servers, working heavily with Java and various game server APIs.
 * 🌐 **Web Development:** I occasionally build web applications and websites, focusing on clean and functional design.
 * 🌱 **Currently Learning:** Deepening my knowledge of **C#** and the .NET ecosystem.
