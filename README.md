@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Lukas! 👋
 
 I'm a high school student and passionate developer based in the Karlovy Vary Region, Czechia. I enjoy building backend systems, creating web experiences, and constantly expanding my tech stack. Currently, I'm diving deep into **C#** and software architecture.
 
@@ -18,10 +18,8 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Infrastructure & Server Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -33,15 +31,9 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gasiiik&show_icons=true&theme=radium)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasiiik&layout=compact&theme=radium)
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to make the stats work!)*
 
----
 
-### 📫 How to reach me
 
-* **Discord:** `your_discord_tag`
-* **Email:** `your.email@example.com`
-* **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
