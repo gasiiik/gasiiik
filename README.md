@@ -39,6 +39,4 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 ### 📈 GitHub Stats
 
 ![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasiiik&show_icons=true&theme=radium)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username)*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gasiiik&layout=compact&theme=radium)
