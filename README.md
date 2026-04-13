@@ -5,6 +5,7 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 ### 👨‍💻 About Me
 
 * 🎓 **Student:** Currently studying at high school in Czechia.
+* 🏆 **Projects & Competitions:** Developed a project in C++ for SOČ (Students' Professional Activities), demonstrating my ability to tackle complex programming challenges.
 * ☕ **Backend & Game Dev:** I develop custom plugins for game servers, working heavily with Java and various game server APIs.
 * 🌐 **Web Development:** I occasionally build web applications and websites, focusing on clean and functional design.
 * 🌱 **Currently Learning:** Deepening my knowledge of **C#** and the .NET ecosystem.
@@ -14,10 +15,14 @@ I'm a high school student and passionate developer based in the Karlovy Vary Reg
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**My Main Stack:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Web Development:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Familiar with / Past Experience:** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks & Libraries:** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
