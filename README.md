@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:2563eb&height=190&section=header&text=Lukáš%20Nováček&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Student%20IT%20%26%20vývojář&descSize=20&descAlignY=60" alt="Lukáš Nováček – student IT & vývojář" width="100%">
+# Lukáš Nováček
 
-**Web · IoT · Backend · C# / .NET · Java · TypeScript**
+**Student IT & vývojář z Karlovarského kraje**
+
+Web · IoT · Backend · C# / .NET · Java · TypeScript
 
 [![GitHub](https://img.shields.io/badge/GitHub-gasiiik-0d1424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gasiiik)
 [![E-mail](https://img.shields.io/badge/E--mail-novaceklukas049%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novaceklukas049@gmail.com)
@@ -86,4 +88,3 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:2563eb&height=100&section=footer" alt="" width="100%">
